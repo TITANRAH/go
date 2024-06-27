@@ -1,0 +1,3 @@
+go run main.go para ejecutar
+
+go build main.go compilar
